@@ -1,0 +1,32 @@
+p{
+    color:blueviolet;
+    border-style: dotted;
+    border-radius: 15px;
+    border-color: red green yellow blueviolet; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.first{
+    color: red;
+    /* background-color:  #0ffc0f; */
+    width: fit-content;
+}
+
+.second{
+    color: aquamarine;
+    /* background-color: crimson; */
+}
+.third{
+    background-image: url("123.jpg");
+    background-repeat:no-repeat; 
+    background-position: right; */
+    background-attachment: scroll;
+    /* width: fit-content; */
+}

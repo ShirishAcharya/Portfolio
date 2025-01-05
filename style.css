@@ -311,9 +311,9 @@ h3{
         @media (max-width:1024px){
             flex-direction: column;
         }
-        /* flex-direction: column;
+        flex-direction: column;
         justify-content: center;
-        align-items: center; */
+        align-items: center;
         .left-column{
             flex:1;
             ul{
